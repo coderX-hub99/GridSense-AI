@@ -1,5 +1,7 @@
 # ⚡ GridSense AI
 
+[# ⚡ GridSense AI App](https://gridsens.streamlit.app/)
+ 
 ### Multivariate Electricity Demand Forecasting, Peak Prediction & Anomaly Detection
 
 GridSense AI is a deep learning project that analyzes historical electricity demand and uses **RNN, LSTM, and GRU** models to forecast future electricity demand.
